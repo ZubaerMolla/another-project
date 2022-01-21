@@ -1,0 +1,40 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background: white;
+    margin: 0cm;
+}
+h1{
+
+}
+#font-size{
+    font-size: 40px;
+}
+.orange-color{
+    color: dodgerblue;
+    font-size: 25px;
+}
+section{
+    display:flex
+}
+.half-width{
+    width: 30%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 60%;
+   
+}
+.link-button{
+    text-decoration: none; /*remove underline from link*/
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: cornsilk;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.top-banner{
+    background-image: url(180-1807834_purple-banner-top-majorelle-blue-hd-png-download.png);
+    background-repeat: no-repeat;
+    height: 3cm;
+    width: 40cm;
+}
